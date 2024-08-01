@@ -1,0 +1,6 @@
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.jnda.tech/lic
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV1 HD" group-title="AstroGO" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1NKFDv.png",TV1 CH101
+https://tv.jnda.tech/UfE/nyhlyo/l.mpd
